@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #008000; /* couleur de pelouse */
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  background: #007700;
+  border: 2px solid #fff;
+}
